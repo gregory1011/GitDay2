@@ -10,4 +10,11 @@ public class Cart {
     // promo code?
 
 
+    // new deals
+
+    // more products
+    // discounts
+
+
+
 }
