@@ -8,6 +8,12 @@ public class ContactPage {
 
     // twitter info
 
+    // more info
+
+    // insta
+
+    //youtube
+
 
 
 }
