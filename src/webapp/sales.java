@@ -8,5 +8,10 @@ public class sales {
 
     // 30 % off
 
+// more sales added
+
+
+    // 12 % sale discount
+
 
 }
