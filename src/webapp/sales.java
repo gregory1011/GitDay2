@@ -13,5 +13,11 @@ public class sales {
 
     // 12 % sale discount
 
+    // new sales ?
 
+    // new year!!!
+
+   // added holidays sales
+    // 44%
+    // deals
 }
